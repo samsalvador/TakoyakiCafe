@@ -1,0 +1,47 @@
+﻿Budget
+The budget allocated for this project is 20,000.
+
+Proposal Instructions
+All proposals should be received by 1:45 on February 12, 2018. Submit your proposal by e-mail to samsalvador@gmail.com
+
+Project Budget
+20,000-30,000
+
+Your approach to website design
+
+1. Requirements Gathering
+
+This is about making sure we understand exactly what it is your company wants from its website, and it works best if we do it face-to-face. On the back of these meetings our team will put together a proposal. This serves as both the basis of the agreement between the two companies and the blueprint for the future of the site.
+
+2. Visual Concept
+
+Once the proposal has been agreed, the next step is to establish the look and feel of the site. The designer will use the information already gathered to produce clean and eye-catching designs that express the ethos of your company in clear visual language. You will be offered more than one variant, and choose the one you like best.
+
+3. Site Architecture
+
+This is about thinking through the structure of the site from the user’s point of view to produce a definitive site map. The aim should be to minimise the number of clicks before any given user arrives at what they are looking for.
+
+4. Production
+
+Once the visual concept and site architecture are in place we can begin producing the graphical templates. These designs are then turned into an HTML wire-frame. That's a site you can click around, but which doesn't do anything more than that.
+
+5. Development
+
+The last step in the process is the development of the functioning website. It is at this point that the more complex programming is done. The work will be carried out on one of our development servers and successive iterations will be available for you to test and review.
+Details regarding your website project management process
+
+A summary of website development experience
+
+1. First we do the requirements of the websites we use and we need to create a websites.
+2. Information design and taxonomy Creation creating a list of pages.
+3. Designing a website using photoshop or paint. Layouting or Template creation.
+4. Process the development of the functioning websites.
+5. Test and review the finish output of a website.
+
+Identify who will be involved on your project team, including their relevant experience
+and credentials
+
+The person who are involved on the project team are Samantha Salvador, Dannah Bacagan and Judy Ann Quiban.
+
+Additional Information or Clarification
+Contact: Samantha Salvador in this no. 09286830893

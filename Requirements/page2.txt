@@ -1,0 +1,13 @@
+Associated Databases / Catalogs / Accounting / Membership Software
+The website utilizes mySQL as its database software.
+
+Required Elements
+
+1. Internal search
+A search engine  is integrated in the website that allows the users to search content within the website. 
+
+2. Social media integration
+Social media sites of the website are integrated in the website. This increases the website's marketing and branding.
+
+Traffic Reporting
+The web traffic are monitored using Google Analytics which monitors the visitors of the website within a specific period. The figures can be interpreted as to learn about the demographics of the visitors. Google Analystics also reports the traffic source of the website. It enables us to learn the sources that delivers the most and least traffic to the website.
