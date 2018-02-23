@@ -140,7 +140,7 @@ footer {
 }
 
 /* Clear floats after the columns */
-.contaienr .row:after {
+.container .row:after {
     content: "";
     display: table;
     clear: both;
@@ -168,9 +168,24 @@ footer {
   text-align: center;
 }
 
-/* Clear floats after the columns */
 .more .row:after {
     content: "";
     display: table;
     clear: both;
 }
+
+.content p{
+  text-align: left;
+  font-size: 17px;
+}
+
+
+.content .col-md-6{
+  padding-left: 10px;  padding-right: 10px;
+
+}
+
+
+
+
+
